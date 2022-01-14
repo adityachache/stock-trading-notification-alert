@@ -18,6 +18,7 @@ sends you an sms when the stock price of the company that you want goes above or
 ![image](https://user-images.githubusercontent.com/84438200/149449903-6a7fb89a-a12c-4d4b-87bd-cc63ba6ad080.png)
 
 **if you want to change the percentage of increase/decrease of the stock (default is 1) you can do that by changing the number on line 52 in the `if statement`**
+
 ![image](https://user-images.githubusercontent.com/84438200/149450361-670fbcfc-fd8b-4031-8cf4-33a1a5d9a88c.png)
 
-### You can automate this script using [pythonanywhere](https://www.pythonanywhere.com/)
+**You can automate this script using [pythonanywhere](https://www.pythonanywhere.com/)**
